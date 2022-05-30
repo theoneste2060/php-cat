@@ -25,8 +25,8 @@
                     </div>
                     <div class="row">
                         <center>
-                            <h3>TUYISHIMIRE Peter</h3>
-                            <span>tuyishimirepeter@gmail.com</span>
+                            <h3>NZAKIZWANIMANA Theoneste</h3>
+                            <span>theoneste2060@gmail.com</span>
                         </center>
                     </div>
 
